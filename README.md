@@ -1,4 +1,4 @@
-# CESA — Onboarding do Aluno
+# CESA — Onboarding do Aluno 
 
 ## 1. Configurar o Supabase
 
